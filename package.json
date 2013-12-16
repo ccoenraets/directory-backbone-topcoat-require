@@ -1,0 +1,7 @@
+{
+  "name": "directory-backbone-topcoat-require",
+  "description": "Employee Directory for Mobile",
+  "dependencies": {
+    "connect": "*"
+  }
+}

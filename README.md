@@ -7,7 +7,11 @@
 Refer to [this blog](http://coenraets.org) for more information about the application.
 
 
-The application runs out-of-the-box with an in-memory data store.
+To run this application (load the application from a web server):
+1.  npm install
+2.  node server
+3.  browse to "http://localhost:8080/"
+
 
 If you want to experiment the application with other persistence layers, download the REST services in the following repositories:
 
