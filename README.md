@@ -9,7 +9,7 @@ Refer to [this blog](http://coenraets.org) for more information about the applic
 
 To run this application (load the application from a web server):
 1.  npm install
-2.  node server
+2.  node server.js
 3.  browse to "http://localhost:8080/"
 
 
