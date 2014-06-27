@@ -1,0 +1,11 @@
+{
+  "name": "directory-backbone-topcoat-require",
+  "description": "Employee Directory for Mobile",
+  "scripts": {
+    "start": "ws"
+  },
+  "repository": "https://github.com/ccoenraets/directory-angular-ionic.git",
+  "dependencies": {
+    "local-web-server": "~0.5.12"
+  }
+}
